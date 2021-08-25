@@ -2,5 +2,5 @@ The website is designed for my personal use, since I am sick of trend academia p
 
 ## Known issues
 - Making the webpage responsive.
-- Blog link is broken.
+- Blog link is broken. (RESOLVED)
 - Using private email.
