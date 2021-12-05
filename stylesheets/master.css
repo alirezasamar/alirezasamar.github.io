@@ -1,13 +1,13 @@
 body {
 	font-family: 'freight-sans-pro', 'Helvetica', 'Arial', sans-serif;
 	background-color: #fff;
-	color: #000;
+	color: #020202;
 	position: relative;
 }
 
 a, a:visited, a:hover, a:link, a:active {
 	text-decoration: none;
-	color: #000;
+	color: #020202;
 }
 
 section#pane_one {
@@ -24,7 +24,7 @@ section#pane_two {
 	position: relative;
 	width: 100%;
 	text-align: center;
-	background-color: #000;
+	background-color: #020202;
 	color: #fff;
 	padding-bottom: 180px;
 }
@@ -36,10 +36,20 @@ section#pane_three {
 	text-align: center;
 	min-height: 500px;
 	background-color: #fff;
-	color: #000;
+	color: #020202;
 }
 
 section#pane_four {
+	display: block;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	min-height: 500px;
+	background-color: #ffcc00;
+	color: #020202;
+}
+
+/* section#pane_four {
 	display: block;
 	position: relative;
 	width: 50%;
@@ -47,7 +57,7 @@ section#pane_four {
 	min-height: 100px;
 	background-color: #f73b29;
 	float: left;
-}
+} */
 
 section#pane_five {
 	display: block;
@@ -64,7 +74,7 @@ h1#logo {
 	z-index: 0;
 	width: 200px;
 	height: 200px;
-	background-color: #000;
+	background-color: #020202;
 	text-indent: -9999px;
 	top: 40%;
 	left: 50%;
