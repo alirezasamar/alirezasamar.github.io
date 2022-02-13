@@ -1,32 +1,17 @@
-## Alireza FYI
-
-The website is designed for my personal use, since I am sick of trend academia personal pages. **Feel free to use template or content for your own purposes**, but please respect copyright for all the images/content.
-
-### Note to myself:
-
-New post:
-
-```
-hugo new --kind post <name>
-```
-
-### Sample `Page.md`
-
-```
 ---
-title: "My post"
-date: 2020-09-15T11:30:03+00:00
-draft: true
+title: "Three Aspects of Recommender Systems in Production"
+date: 2019-08-02T11:43:46+02:00
+draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+tags: ["Recommender System", "MLOps"]
+author: "Alireza Samar"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "TL;DR This website is moving!"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -34,8 +19,9 @@ disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
+ShowCodeCopyButtons: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -47,4 +33,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-```
+
+Recommender systems are everywhere. They are helpful but sometimes biased. But building a recommender system which is for sure an application of machine learning in production requires some special treatments and aspects to cover in comparison to other machine learning application like let’s say classification.
+In this article I will go through three of these aspects.
