@@ -58,8 +58,8 @@ params:
 
   label:
     text: "Alireza Samar"
-    # icon: /apple-touch-icon.png
-    iconHeight: 35
+    # icon: profile.webp
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -78,28 +78,30 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: "My name is Alireza Samar (in Persian: علیرضا سمر) (he/him)
-    \n \n  Interests: 
+    Title: "Hi there \U0001F916"
+    Content: "My name is Alireza Samar (he/him)
+    \n \n  I write about reinforcement learning, control theory and math. 
     \n \n  The revolution will not be supervised!"
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/alirezasamar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alirezasamar"
     - name: googlescholar
-      url: "https://github.com"
+      url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/alirezasamar"
     - name: email
-      url: "https://stackoverflow.com"
+      url: "mailto:03rio.sines@icloud.com"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -123,18 +125,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: archive
+      name: Archive
+      url: /archives/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
+    - identifier: MLWeekly
+      name: Machine Learning Weekly
+      url: https://mlweekly.alireza.fyi
+      weight: 40
 Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

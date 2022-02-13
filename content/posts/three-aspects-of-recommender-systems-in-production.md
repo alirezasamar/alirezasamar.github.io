@@ -5,13 +5,13 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Recommender System", "MLOps"]
-author: "Me"
+author: "Alireza Samar"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-# description: "Desc Text."
+description: "TL;DR This website is moving!"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
