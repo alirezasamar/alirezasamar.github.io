@@ -1,43 +1,25 @@
-### macOS ###
-# General
+# drafts folder
+_drafts/
+
+# Mac system files
 .DS_Store
-.AppleDouble
-.LSOverride
+assets/.DS_Store
+static/.DS_Store
+_includes/.DS_Store
 
-# Icon must end with two \r
-Icon
+# generated site folder
+_site/
 
-# Thumbnails
-._*
+# jekyll cahce
+.jekyll-cache/
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-
-# Local History for Visual Studio Code
-.history/
-
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
+# gemlock
+Gemfile 
+Gemfile.lock
+sunflowers/sunflower2.md
+sunflowers/sunflowers-6.md
+sunflowers/sunflowers.md
+sunflowers/sunflowers2.md
+sunflowers/sunflowers4.md
+sunflowers/sunflowrs5.md
+sunflowers/master.js
