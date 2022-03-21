@@ -55,8 +55,6 @@ plugins:
 
 feed: 
   categories: 
-    - english-guide
     - essay
     - now
     - note
-    - tech-guide
