@@ -9,7 +9,6 @@ permalink: /blog/tags
 <h2 id="categories">Categories</h2>
 <div class="tag-list">
 <a href="/blog">All ({{ site.posts | size }})</a>
-<a href="/blog/now">Now ({{ site.categories.now | size }})</a>
 <a href="/blog/tech-guides">Tech guides ({{ site.categories.tech-guide | size }})</a>
 <a href="/english">English guides ({{ site.categories.english-guide | size }})</a>
 </div>

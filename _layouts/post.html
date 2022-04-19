@@ -13,20 +13,8 @@
 	{%- unless page.custom-date %}{{ postDate | date: "%B" }} {{prettyDateOfPost}}{{ ordinalEnding }}, {{ postDate | date: "%Y" }}{%- else -%}{{ page.custom-date }}{%- endunless -%}</time>{% endunless %}</p>
 </header>
 
-{%- if page.categories contains "now" -%}
-	{%- include now-blurb.html -%}
-{%- endif -%}
-
-{%- if page.categories contains "english-guide" -%}
-	{%- include english_plug.html -%}
-{%- endif -%}
-
 {%- if page.categories contains "rss-club" -%}
 	{%- include rss-plug.html -%}
-{%- endif -%}
-
-{%- if page.categories contains "ukraine" -%}
-	{%- include ukraine-blurb.html -%}
 {%- endif -%}
 
 {{ content }}

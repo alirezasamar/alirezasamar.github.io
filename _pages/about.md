@@ -3,7 +3,6 @@ title: About
 description: "Alireza Samar is a computer scientist and machine learning researcher."  
 nav: custom
 custom-nav: 
-    - '<a href="/now" title="Now">Now</a>&nbsp;|&nbsp;'
     - '<a href="/contact" title="Contact">Contact</a>'
 permalink: /about
 --- 

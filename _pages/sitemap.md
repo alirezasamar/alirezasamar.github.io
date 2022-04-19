@@ -13,7 +13,6 @@ permalink: /sitemap
 - [Sitemap](/sitemap) 
 
 ## [About](/about)
-- [Now](/now)
 - [Portfolio](/portfolio)
 - [CV](/cv)
 - [RSS](/feed.xml)
@@ -23,7 +22,6 @@ permalink: /sitemap
 
 - [Tags & Categories](/blog/tags)
 - [English study guides](/english)
-- [Now posts](/blog/now)
 - [Tech guides](/blog/tech-guides)
 - [Random Post](/blog/random)
 

@@ -56,5 +56,4 @@ plugins:
 feed: 
   categories: 
     - essay
-    - now
     - note
