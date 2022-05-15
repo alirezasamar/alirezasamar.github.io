@@ -2,7 +2,6 @@
 
 This is my personal site that contains my blog plus some of my notes. 
 
-I use Jekyll to build the site and host it via GitHub pages. I used the awesome design of [Derek Kedziora](https://derekkedziora.com) and modify it overtime. 
 
 ## License 
 
