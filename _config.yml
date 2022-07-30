@@ -1,0 +1,61 @@
+title: "Alireza Samar’s Website" 
+author: Alireza Samar
+email: "hey@alirezasamar.com"
+description: "The place where I put around, write, tinker, experiment and procrastinate"
+github: alirezasamar
+highlighter: rouge
+markdown: kramdown
+parse_block_html: false
+url: https://alirezasamar.com
+permalink: blog/:title
+show_drafts: true
+timezone: Europe/Tallinn
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      blogpost: true
+      layout: post
+      og-type: article
+      permalink: /blog/:title
+    
+  -    
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page    
+
+  -    
+    scope:
+      path: ""
+      type: "no-index"
+    values:
+      layout: page
+      no-index: true
+
+collections:
+  pages:
+    output: true
+  no-index:
+    output: true
+  unlisted:
+    output: true
+
+plugins:
+  - jekyll-feed
+
+feed: 
+  categories: 
+    - essay
+    - note
+    - machine-learning
+    - engineering
