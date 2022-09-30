@@ -18,7 +18,71 @@
     <title>Alex Samar</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="styles.css" rel="stylesheet" type="text/css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
+    />
+    <style>
+      @font-face {
+        font-family: "vcr_osd_monoregular";
+        src: url("assets/vcr_osd_mono_1.001-webfont.woff2") format("woff2"),
+          url("assets/vcr_osd_mono_1.001-webfont.woff") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      :root {
+        --nc-font-sans: "vcr_osd_monoregular", monospace;
+        --nc-font-mono: "vcr_osd_monoregular", monospace;
+        --nc-tx-1: #ffffff;
+        --nc-tx-2: #eeeeee;
+        --nc-bg-1: #262121;
+        --nc-bg-2: #262121;
+        --nc-bg-3: #efa94d;
+        --nc-lk-1: #f2800a;
+        --nc-lk-2: #efa94d;
+        --nc-lk-tx: #262121;
+        --nc-ac-1: #f2800a;
+        --nc-ac-tx: #262121;
+      }
+
+      * {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      body {
+        text-transform: uppercase;
+        margin-left: 30px;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+
+      h1 {
+        font-size: 1em;
+        font-weight: normal;
+        border: none;
+        margin: 0;
+      }
+      a:link {
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: none;
+      }
+
+      a:active {
+        text-decoration: none;
+      }
+    </style>
     <link
       href="https://fonts.googleapis.com/css?family=Heebo:700,700italic,400,400italic"
       rel="stylesheet"
@@ -30,153 +94,12 @@
     />
   </head>
   <body>
-    <h1>alexsamar.com</h1>
-    <!-- <div id="head" class="container">
-      <header>
-        <div class="row">
-          <div id="pic">
-            <img
-              src="img/alex_samar.jpg"
-              class="pic"
-              alt="Alex Samar portrait"
-            />
-          </div>
-          <div id="desc">
-            <h1>Alex Samar</h1>
-            <p>
-              I am a CTO at
-              <a href="https://companio.co" target="_blank">Companio</a>, where
-              I lead a team of talented engineers and work on computer vision
-              and machine learning.
-            </p>
-            <p>
-              Before Companio, I worked on
-              <a
-                href="https://www.producthunt.com/products/segmentino"
-                target="_blank"
-                >Segmentino</a
-              >,
-              <a href="https://github.com/alxsmr/DeepNILM" target="_blank"
-                >DeepNILM</a
-              >,
-              <a href="https://www.facebook.com/appointai" target="_blank"
-                >Appoint AI</a
-              >,
-              <a href="https://tantannews.com/" target="_blank">Dino Media</a>,
-              <a
-                href="https://www.producthunt.com/products/cimply"
-                target="_blank"
-                >Cimply</a
-              >, and
-              <a
-                href="https://www.crunchbase.com/organization/oonbox"
-                target="_blank"
-                >Oonbox</a
-              >. I did my study in Computer Science with a major in Artificial
-              intelligence. I've authored
-              <a href="https://github.com/alxsmr/Data-Science-with-Python"
-                >Data Science with Python Handbook</a
-              >.
-            </p>
-            <p style="text-align: center">
-              <a href="#" id="iemail">Email</a>
-              &nbsp/&nbsp
-              <a href="https://github.com/alxsmr" target="_blank">GitHub</a>
-              &nbsp/&nbsp
-              <a href="https://www.linkedin.com/in/alxsmr" target="_blank"
-                >LinkedIn</a
-              >
-              &nbsp/&nbsp
-              <a href="https://alxsmr.medium.com" target="_blank">Medium</a>
-              &nbsp/&nbsp
-              <a href="https://twitter.com/alxsamar" target="_blank">Twitter</a>
-            </p>
-            <div id="demail"></div>
-          </div>
-        </div>
-      </header>
-      <main>
-        <section>
-          <h2>Interests</h2>
-          <p>
-            I'm interested in computer vision, machine learning, optimization,
-            and image processing. Much of my research is about inferring the
-            physical world (shape, motion, color, light, etc) from images.
-            Representative works are
-            <span class="highlight">highlighted</span>.
-          </p>
-        </section>
-        <section>
-          <h2>Featured projects</h2>
-          <p>
-            I'm moving my stuff from old website to here, therefore this website
-            is a bit junky now.
-          </p>
-          <article class="item">
-            <p class="dessert">Donut</p>
-            <p class="price">1.50</p>
-          </article>
-          <article class="item">
-            <p class="dessert">Cherry Pie</p>
-            <p class="price">2.75</p>
-          </article>
-        </section>
-      </main>
-      <section>
-        <h2>Misc</h2>
-        <p>
-          A long time ago, I used to send a weekly
-          <a
-            href="https://www.producthunt.com/products/machine-learning-weekly"
-            target="_blank"
-            >machine learning newsletter</a
-          >
-          to 8,000+ readers.
-        </p>
-        <p>
-          I've also curated a
-          <a href="https://github.com/alxsmr/awesome-phd" target="_blank"
-            >list of awesome</a
-          >
-          advice, tips and resources to prepare for PhD/grad school.
-        </p>
-        <p>
-          I recently started to use
-          <a
-            href="https://www.goodreads.com/alexsamar
-          "
-            target="_blank"
-            >Goodreads</a
-          >
-          to keep track of my readings.
-        </p>
-        <p>
-          The views and opinions on this website are my opinions and do not
-          reflect the views of my current or former employers.
-        </p>
-        <p>
-          0 frameworks responsive website made on purpose with pure HTML and
-          CSS! Because I'm seriously allergic to
-          <a href="https://motherfuckingwebsite.com/">500-pound websites</a>.
-        </p>
-      </section>
-      <footer>
-        <p class="footnote">
-          Feel free to steal this website's
-          <a href="https://github.com/alxsmr/alxsmr.github.io" target="_blank"
-            >source code</a
-          >.
-        </p>
-      </footer>
-    </div> -->
-    <script type="text/javascript">
-      var e_is_shown = false;
-      document.getElementById("iemail").addEventListener("click", function () {
-        let demail = document.getElementById("demail");
-        demail.innerHTML = "hey" + "@" + "alexsamar" + ".com";
-        demail.style.opacity = e_is_shown ? 0 : 1;
-        e_is_shown = !e_is_shown;
-      });
-    </script>
+    <h1>Alex Samar</h1>
+    <p>ML Software Engineer</p>
+    <nav>
+      <a href="https://github.com/ex-nor">GitHub</a> /
+      <a href="https://www.linkedin.com/in/ex-nor/">LinkedIn</a> /
+      <a href="https://exnor.medium.com/">Medium</a>
+    </nav>
   </body>
 </html>
