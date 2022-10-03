@@ -1,4 +1,4 @@
-# [alexsamar.com](https://alexsamar.com)
+# [alirezasamar.com](https://alirezasamar.com)
 
 This is my personal site that contains my blog plus some of my notes.
 
