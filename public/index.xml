@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alireza Samar</title>
+    <link>https://alirezasamar.com/</link>
+    <description>Recent content on Alireza Samar</description>
+    <image>
+      <title>Alireza Samar</title>
+      <url>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2019 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Aspects of Recommender Systems in Production</title>
+      <link>https://alirezasamar.com/posts/three-aspects-of-recommender-systems-in-production/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/three-aspects-of-recommender-systems-in-production/</guid>
+      <description>Recommender systems are everywhere. They are helpful but sometimes biased. But building a recommender system which is for sure an application of machine learning in production requires some special treatments and aspects to cover in comparison to other machine learning application like let&amp;rsquo;s say classification.
+In this article I will go through three of these aspects:
+Photo by Javier Allegue Barros
+1. Model Selection How do you choose the model?</description>
+    </item>
+    
+  </channel>
+</rss>
