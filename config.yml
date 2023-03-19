@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Alireza Samar
   description: "Alireza Samar"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Publications, Machine Learning]
   author: Alireza Samar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]

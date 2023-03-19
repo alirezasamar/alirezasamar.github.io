@@ -14,7 +14,7 @@ _Photo by [Nicolas Hoizey](https://unsplash.com/@nhoizey)_
 
 Modern software engineering is all about shipping fast and often
 
-It was about a month ago that I was introduced to a book called [https://en.wikipedia.org/wiki/Accelerate\_(book)](Accelerate) and later discovered another study [https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling](Accelerate State of DevOps Report).
+It was about a month ago that I was introduced to a book called [Accelerate](<https://en.wikipedia.org/wiki/Accelerate_(book)>) and later discovered another study [Accelerate State of DevOps Report](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling).
 
 It is all natural to agile teams today but what all these studies demonstrate is that engineering teams that deliver more often are more likely to meet or exceed their organizational performance goals.
 
