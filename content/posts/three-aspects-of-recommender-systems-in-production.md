@@ -4,7 +4,7 @@ date: 2019-08-02T10:38:50+02:00
 draft: false
 ---
 
-Recommender systems are everywhere. They are helpful but sometimes biased. But building a recommender system which is for sure an application of machine learning in production requires some special treatments and aspects to cover in comparison to other machine learning application like let's say classification.
+> Recommender systems are everywhere. They are helpful but sometimes biased. But building a recommender system which is for sure an application of machine learning in production requires some special treatments and aspects to cover in comparison to other machine learning application like let's say classification.
 
 In this article I will go through three of these aspects:
 
