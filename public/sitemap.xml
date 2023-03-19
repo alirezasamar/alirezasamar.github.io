@@ -3,16 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alirezasamar.com/</loc>
-    <lastmod>2019-08-02T10:38:50+02:00</lastmod>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/continuous-delivery/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/continuous-delivery-champions/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/posts/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/software-development/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/software-engineering/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/</loc>
+    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/data-science/</loc>
+    <lastmod>2022-05-29T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/key-components-of-an-effective-data-science-manager/</loc>
+    <lastmod>2022-05-29T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/technology-leadership/</loc>
+    <lastmod>2022-05-29T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/ml-systems/</loc>
+    <lastmod>2019-08-02T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/recommendation-system/</loc>
+    <lastmod>2019-08-02T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/recsys/</loc>
     <lastmod>2019-08-02T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/posts/three-aspects-of-recommender-systems-in-production/</loc>
     <lastmod>2019-08-02T10:38:50+02:00</lastmod>
   </url><url>
+    <loc>https://alirezasamar.com/archives/</loc>
+  </url><url>
     <loc>https://alirezasamar.com/categories/</loc>
   </url><url>
-    <loc>https://alirezasamar.com/tags/</loc>
+    <loc>https://alirezasamar.com/search/</loc>
+  </url><url>
+    <loc>https://alirezasamar.com/series/</loc>
   </url>
 </urlset>

@@ -20,7 +20,7 @@ params:
   title: Alireza Samar
   description: "Alireza Samar"
   keywords: [Blog, Portfolio, PaperMod]
-  # author: Me
+  author: Alireza Samar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -123,20 +123,27 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - name: Tags
+      url: tags/
+      weight: 10
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Continuous Delivery on Alireza Samar</title>
+    <link>https://alirezasamar.com/tags/continuous-delivery/</link>
+    <description>Recent content in Continuous Delivery on Alireza Samar</description>
+    <image>
+      <title>Alireza Samar</title>
+      <url>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/continuous-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Delivery Champions</title>
+      <link>https://alirezasamar.com/posts/continuous-delivery-champions/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/continuous-delivery-champions/</guid>
+      <description>A distill on DevOps</description>
+    </item>
+    
+  </channel>
+</rss>

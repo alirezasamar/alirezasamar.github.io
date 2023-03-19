@@ -10,6 +10,79 @@
       <link>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://alirezasamar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://alirezasamar.com/tags/continuous-delivery/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://alirezasamar.com/tags/software-development/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://alirezasamar.com/tags/software-engineering/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://alirezasamar.com/tags/data-science/</link>
+      <pubDate>Sun, 29 May 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Leadership</title>
+      <link>https://alirezasamar.com/tags/technology-leadership/</link>
+      <pubDate>Sun, 29 May 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/technology-leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML systems</title>
+      <link>https://alirezasamar.com/tags/ml-systems/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/ml-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommendation system</title>
+      <link>https://alirezasamar.com/tags/recommendation-system/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recsys</title>
+      <link>https://alirezasamar.com/tags/recsys/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/recsys/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

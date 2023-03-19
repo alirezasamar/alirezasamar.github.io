@@ -11,18 +11,35 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2019 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Delivery Champions</title>
+      <link>https://alirezasamar.com/posts/continuous-delivery-champions/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/continuous-delivery-champions/</guid>
+      <description>A distill on DevOps</description>
+    </item>
+    
+    <item>
+      <title>Key Components of An Effective Data Science Manager</title>
+      <link>https://alirezasamar.com/posts/key-components-of-an-effective-data-science-manager/</link>
+      <pubDate>Sun, 29 May 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/key-components-of-an-effective-data-science-manager/</guid>
+      <description>A list of hidden skills for every forward-thinking manager!</description>
+    </item>
+    
     <item>
       <title>Three Aspects of Recommender Systems in Production</title>
       <link>https://alirezasamar.com/posts/three-aspects-of-recommender-systems-in-production/</link>
       <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
       
       <guid>https://alirezasamar.com/posts/three-aspects-of-recommender-systems-in-production/</guid>
-      <description>Recommender systems are everywhere. They are helpful but sometimes biased. But building a recommender system which is for sure an application of machine learning in production requires some special treatments and aspects to cover in comparison to other machine learning application like let&amp;rsquo;s say classification.
-In this article I will go through three of these aspects:
-Photo by Javier Allegue Barros
-1. Model Selection How do you choose the model?</description>
+      <description>Guide to build a production-ready recsys</description>
     </item>
+    
+    
     
   </channel>
 </rss>
