@@ -8,7 +8,7 @@ draft: false
 
 In this article I will go through three of these aspects:
 
-![alt text](/assets/headers/photo-1533073526757-2c8ca1df9f1c.avif)
+![alt text](https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets//headers/photo-1533073526757-2c8ca1df9f1c.avif)
 
 _Photo by [Javier Allegue Barros](https://unsplash.com/@soymeraki)_
 
