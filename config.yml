@@ -1,4 +1,5 @@
 baseURL: "https://alirezasamar.com/"
+languageCode: "en-us"
 title: Alireza Samar
 paginate: 5
 theme: PaperMod
@@ -19,7 +20,7 @@ params:
   title: Alireza Samar
   description: "Alireza Samar"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -36,7 +37,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -109,6 +110,8 @@ params:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+
+  disqusShortname: alirezasamar
 
   # for search
   # https://fusejs.io/api/options.html
