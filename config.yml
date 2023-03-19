@@ -61,10 +61,10 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "/assets/alirezasamar_avatar.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Alireza Samar
     buttons:
       - name: Posts
         url: posts
@@ -75,14 +75,26 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
+    imageUrl: "/assets/alirezasamar_avatar.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Alireza Samar
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/alirezasamar"
+    - name: twitter
+      url: "https://twitter.com/alirezasamar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alirezasamar/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/4105051"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
+    - name: kaggle
+      url: "https://www.kaggle.com/alirezasamar"
+    - name: goodreads
+      url: "https://goodreads.com/alirezasamar"
 
   analytics:
     google:
