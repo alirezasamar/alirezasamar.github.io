@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/assets/favicon/favicon.ico"
+    favicon16x16: "/assets/favicon/favicon-16x16.png"
+    favicon32x32: "/assets/favicon/favicon-32x32.png"
+    apple_touch_icon: "/assets/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/favicon/favicon-16x16.png"
 
   label:
     text: "Alireza Samar"
@@ -61,7 +61,7 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "/assets/alirezasamar_avatar.jpg"
+    imageUrl: "/assets/avatar/alirezasamar.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Alireza Samar
@@ -75,7 +75,7 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
-    imageUrl: "/assets/alirezasamar_avatar.jpg"
+    imageUrl: "/assets/avatar/alirezasamar.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Alireza Samar
