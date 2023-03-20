@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jun 2022 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification with PyTorch</title>
+      <link>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</link>
+      <pubDate>Sun, 12 Mar 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</guid>
+      <description>A step-by-step guide on how to fine-tune a pre-trained ResNet-18 model for image classification on a domain-specific problem using PyTorch.</description>
+    </item>
+    
     <item>
       <title>Continuous Delivery Champions</title>
       <link>https://alirezasamar.com/posts/continuous-delivery-champions/</link>

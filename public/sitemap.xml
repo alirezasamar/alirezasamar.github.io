@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alirezasamar.com/</loc>
-    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/fine-tuning/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/image-classification/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/pytorch/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/</loc>
+    <lastmod>2023-03-12T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/tags/continuous-delivery/</loc>
     <lastmod>2022-06-30T10:38:50+02:00</lastmod>
@@ -11,16 +29,10 @@
     <loc>https://alirezasamar.com/posts/continuous-delivery-champions/</loc>
     <lastmod>2022-06-30T10:38:50+02:00</lastmod>
   </url><url>
-    <loc>https://alirezasamar.com/posts/</loc>
-    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
-  </url><url>
     <loc>https://alirezasamar.com/tags/software-development/</loc>
     <lastmod>2022-06-30T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/tags/software-engineering/</loc>
-    <lastmod>2022-06-30T10:38:50+02:00</lastmod>
-  </url><url>
-    <loc>https://alirezasamar.com/tags/</loc>
     <lastmod>2022-06-30T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/tags/data-science/</loc>
