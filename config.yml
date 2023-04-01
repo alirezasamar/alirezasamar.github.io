@@ -74,7 +74,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "\U0001F44B Welcome to my blog"
+    Title: "Welcome to my blog"
     Content: Hi there, this is Alireza. I’m documenting my learning notes and musings in this blog. Other than writing a ML blog, I’m leading adoption of Applied ML at Sievo on the side.
     imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
     imageWidth: 120
@@ -88,12 +88,12 @@ params:
       url: "https://twitter.com/alirezasamar"
     - name: linkedin
       url: "https://www.linkedin.com/in/alirezasamar/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/4105051"
-    - name: googlescholar
-      url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
-    - name: kaggle
-      url: "https://www.kaggle.com/alirezasamar"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com/users/4105051"
+    # - name: googlescholar
+    #   url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
+    # - name: kaggle
+    #   url: "https://www.kaggle.com/alirezasamar"
     - name: goodreads
       url: "https://goodreads.com/alirezasamar"
 
