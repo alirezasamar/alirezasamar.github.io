@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 07:05:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Privacy</title>
+      <link>https://alirezasamar.com/tags/data-privacy/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/data-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Federated Learning</title>
+      <link>https://alirezasamar.com/tags/distributed-federated-learning/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/distributed-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable ML</title>
+      <link>https://alirezasamar.com/tags/scalable-ml/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/scalable-ml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Fine-Tuning</title>
       <link>https://alirezasamar.com/tags/fine-tuning/</link>

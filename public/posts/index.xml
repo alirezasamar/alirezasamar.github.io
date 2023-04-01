@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 07:05:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embracing Distributed Federated Learning for Scalable Business Solutions</title>
+      <link>https://alirezasamar.com/posts/embracing-distributed-federated-learning-for-scalable-business-solutions/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/embracing-distributed-federated-learning-for-scalable-business-solutions/</guid>
+      <description>Explore the transformative potential of distributed federated learning in businesses, unlocking scalable, secure, and collaborative machine learning solutions across industries.</description>
+    </item>
+    
     <item>
       <title>Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification with PyTorch</title>
       <link>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</link>
