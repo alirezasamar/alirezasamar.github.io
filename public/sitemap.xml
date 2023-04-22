@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alirezasamar.com/tags/algorithm/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
     <loc>https://alirezasamar.com/</loc>
-    <lastmod>2023-04-01T07:05:50+02:00</lastmod>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/gradient-descent/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/gradient-descent-simplified/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/machine-learning/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/posts/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://alirezasamar.com/tags/</loc>
+    <lastmod>2023-04-21T10:38:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/tags/data-privacy/</loc>
     <lastmod>2023-04-01T07:05:50+02:00</lastmod>
@@ -14,13 +32,7 @@
     <loc>https://alirezasamar.com/posts/embracing-distributed-federated-learning-for-scalable-business-solutions/</loc>
     <lastmod>2023-04-01T07:05:50+02:00</lastmod>
   </url><url>
-    <loc>https://alirezasamar.com/posts/</loc>
-    <lastmod>2023-04-01T07:05:50+02:00</lastmod>
-  </url><url>
     <loc>https://alirezasamar.com/tags/scalable-ml/</loc>
-    <lastmod>2023-04-01T07:05:50+02:00</lastmod>
-  </url><url>
-    <loc>https://alirezasamar.com/tags/</loc>
     <lastmod>2023-04-01T07:05:50+02:00</lastmod>
   </url><url>
     <loc>https://alirezasamar.com/tags/fine-tuning/</loc>

@@ -42,6 +42,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  math: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -96,6 +97,8 @@ params:
     #   url: "https://www.kaggle.com/alirezasamar"
     - name: goodreads
       url: "https://goodreads.com/alirezasamar"
+    - name: komoot
+      url: "https://www.komoot.com/user/3353811162150"
 
   analytics:
     google:

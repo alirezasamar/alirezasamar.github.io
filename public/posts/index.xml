@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 07:05:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradient Descent Simplified</title>
+      <link>https://alirezasamar.com/posts/gradient-descent-simplified/</link>
+      <pubDate>Fri, 21 Apr 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/gradient-descent-simplified/</guid>
+      <description>Gradient descent optimizes machine learning models by iteratively minimizing the loss function using various techniques.</description>
+    </item>
+    
     <item>
       <title>Embracing Distributed Federated Learning for Scalable Business Solutions</title>
       <link>https://alirezasamar.com/posts/embracing-distributed-federated-learning-for-scalable-business-solutions/</link>
