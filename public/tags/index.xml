@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Alireza Samar</title>
+    <link>https://alirezasamar.com/tags/</link>
+    <description>Recent content in Tags on Alireza Samar</description>
+    <image>
+      <title>Alireza Samar</title>
+      <url>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 07:05:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Privacy</title>
+      <link>https://alirezasamar.com/tags/data-privacy/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/data-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Federated Learning</title>
+      <link>https://alirezasamar.com/tags/distributed-federated-learning/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/distributed-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable ML</title>
+      <link>https://alirezasamar.com/tags/scalable-ml/</link>
+      <pubDate>Sat, 01 Apr 2023 07:05:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/scalable-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning</title>
+      <link>https://alirezasamar.com/tags/fine-tuning/</link>
+      <pubDate>Sun, 12 Mar 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Classification</title>
+      <link>https://alirezasamar.com/tags/image-classification/</link>
+      <pubDate>Sun, 12 Mar 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://alirezasamar.com/tags/pytorch/</link>
+      <pubDate>Sun, 12 Mar 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://alirezasamar.com/tags/continuous-delivery/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://alirezasamar.com/tags/software-development/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://alirezasamar.com/tags/software-engineering/</link>
+      <pubDate>Thu, 30 Jun 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://alirezasamar.com/tags/data-science/</link>
+      <pubDate>Sun, 29 May 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Leadership</title>
+      <link>https://alirezasamar.com/tags/technology-leadership/</link>
+      <pubDate>Sun, 29 May 2022 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/technology-leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML systems</title>
+      <link>https://alirezasamar.com/tags/ml-systems/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/ml-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommendation system</title>
+      <link>https://alirezasamar.com/tags/recommendation-system/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recsys</title>
+      <link>https://alirezasamar.com/tags/recsys/</link>
+      <pubDate>Fri, 02 Aug 2019 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/tags/recsys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

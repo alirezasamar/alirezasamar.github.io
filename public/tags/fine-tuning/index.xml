@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fine-Tuning on Alireza Samar</title>
+    <link>https://alirezasamar.com/tags/fine-tuning/</link>
+    <description>Recent content in Fine-Tuning on Alireza Samar</description>
+    <image>
+      <title>Alireza Samar</title>
+      <url>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alirezasamar.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/tags/fine-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification with PyTorch</title>
+      <link>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</link>
+      <pubDate>Sun, 12 Mar 2023 10:38:50 +0200</pubDate>
+      
+      <guid>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</guid>
+      <description>A step-by-step guide on how to fine-tune a pre-trained ResNet-18 model for image classification on a domain-specific problem using PyTorch.</description>
+    </item>
+    
+  </channel>
+</rss>
