@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to my blog"
-    Content: I'm Alireza Samar and in this blog, my learning notes and musings are being documented. Other than writing a ML blog, I’m leading a fabulous team of software/ML engineers at Sievo on the side.
+    Content: I'm Alireza Samar and in this blog, my learning notes and musings are being documented. Other than writing a ML blog, I’m leading a fabulous` team of software/ML engineers at Sievo on the side.
     imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
     imageWidth: 120
     imageHeight: 120
