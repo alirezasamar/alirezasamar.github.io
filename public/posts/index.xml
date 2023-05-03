@@ -11,6 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 21 Apr 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gradient Descent Simplified</title>
@@ -30,6 +31,9 @@
       <description>Explore the transformative potential of distributed federated learning in businesses, unlocking scalable, secure, and collaborative machine learning solutions across industries.</description>
     </item>
     
+=======
+    <lastBuildDate>Sun, 12 Mar 2023 10:38:50 +0200</lastBuildDate><atom:link href="https://alirezasamar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> parent of 3de4154 (Minor corrections on DFL post)
     <item>
       <title>Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification with PyTorch</title>
       <link>https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/</link>
