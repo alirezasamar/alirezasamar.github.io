@@ -1,6 +1,6 @@
 baseURL: "https://alirsamar.com"
 languageCode: "en-us"
-title: Alireza Samar
+title: Ali Samar
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Alireza Samar
-  description: "Alireza Samar"
+  title: Ali Samar
+  description: "Ali Samar"
   keywords: [Blog, Publications, Machine Learning]
-  author: Alireza Samar
+  author: Ali Samar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -46,14 +46,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon.ico"
-    favicon16x16: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-16x16.png"
-    favicon32x32: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-32x32.png"
-    apple_touch_icon: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-16x16.png"
+    favicon: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/favicon/favicon.ico"
+    favicon16x16: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/favicon/favicon-16x16.png"
+    favicon32x32: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/favicon/favicon-16x16.png"
 
   label:
-    text: "Alireza Samar"
+    text: "Ali Samar"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -62,10 +62,10 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
+    imageUrl: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/avatar/alirsamar.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Alireza Samar
+    imageTitle: Ali Samar
     buttons:
       - name: Posts
         url: posts
@@ -75,27 +75,27 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to my blog"
-    Content: I'm Alireza Samar and in this blog, my learning notes and musings are being documented. Other than writing a ML blog, I’m leading a fabulous` team of software/ML engineers at Sievo on the side.
-    imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
+    Content: I'm Ali Samar and in this blog, my learning notes and musings are being documented. Other than writing a ML blog, I’m leading a fabulous` team of software/ML engineers at Sievo on the side.
+    imageUrl: "https://raw.githubusercontent.com/alirsamar/alirsamar.github.io/master/assets/avatar/alirsamar.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Alireza Samar
+    imageTitle: Ali Samar
 
   socialIcons:
     - name: github
-      url: "https://github.com/alirezasamar"
+      url: "https://github.com/alirsamar"
     - name: twitter
-      url: "https://twitter.com/alirezasamar"
+      url: "https://twitter.com/alirsamar"
     - name: linkedin
-      url: "https://www.linkedin.com/in/alirezasamar/"
+      url: "https://www.linkedin.com/in/alirsamar/"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
     # - name: googlescholar
     #   url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     # - name: kaggle
-    #   url: "https://www.kaggle.com/alirezasamar"
+    #   url: "https://www.kaggle.com/alirsamar"
     - name: goodreads
-      url: "https://goodreads.com/alirezasamar"
+      url: "https://goodreads.com/alirsamar"
 
   analytics:
     google:
@@ -111,7 +111,7 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  disqusShortname: alirezasamar
+  disqusShortname: alirsamar
 
   # for search
   # https://fusejs.io/api/options.html
