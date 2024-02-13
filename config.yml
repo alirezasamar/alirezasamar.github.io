@@ -25,10 +25,10 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -59,7 +59,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
     imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
@@ -67,10 +67,18 @@ params:
     imageHeight: 120
     imageTitle: Alireza Samar
     buttons:
-      - name: Posts
-        url: posts
+      - name: Blog
+        url: blog
       - name: Tags
         url: tags
+
+  permalinks:
+    page:
+      posts: /blog/:year/:month/:slug/
+      # tutorials: /training/:slug/
+    section:
+      posts: /blog/
+      # tutorials: /training/
 
   # home-info mode
   homeInfoParams:
@@ -84,14 +92,14 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/alirezasamar"
-    - name: twitter
-      url: "https://twitter.com/alirezasamar"
+    - name: x
+      url: "https://x.com/alirezasamar"
     - name: linkedin
       url: "https://www.linkedin.com/in/alirezasamar/"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
-    # - name: googlescholar
-    #   url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     # - name: kaggle
     #   url: "https://www.kaggle.com/alirezasamar"
     - name: goodreads
