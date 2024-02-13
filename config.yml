@@ -60,17 +60,24 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
+    title: " "
+    subtitle: |
+      I am Alireza Samar, a computer scientist passionate about machine learning and data-intensive systems. <br>
+      I lead a fabulous team of software and ML engineers at [Sievo](https://sievo.com). Previously, I built scalable and robust distributed systems at [Companio](https://companio.co), Segmentino and Appoint AI. <br>
+      My current research focuses on the scalability of reinforcement learning, aiming to develop more efficient and robust RL systems. <br>
+      The best way to reach me is via email ([alireza@[thiswebsite]]()). I am always open to interesting conversations and collaborations.
+
+    imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Alireza Samar
     buttons:
       - name: Blog
         url: blog
-      - name: Tags
-        url: tags
+      - name: Tutorials
+        url: tutorials
+      - name: Publications
+        url: publications
 
   permalinks:
     page:
@@ -161,6 +168,13 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true # Allows raw HTML in Markdown files
+    extensions:
+      typographer: true
+      linkify: true
   highlight:
     noClasses: false
     # anchorLineNos: true
