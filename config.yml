@@ -24,7 +24,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: true
 
   ShowReadingTime: true
@@ -59,13 +59,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: " "
     subtitle: |
-      I am Alireza Samar, a computer scientist passionate about machine learning and data-intensive systems. <br>
-      I lead a fabulous team of software and ML engineers at [Sievo](https://sievo.com). Previously, I built scalable and robust distributed systems at [Companio](https://companio.co), Segmentino and Appoint AI. <br>
-      My current research focuses on the scalability of reinforcement learning, aiming to develop more efficient and robust RL systems. <br>
-      The best way to reach me is via email ([alireza@[thiswebsite]]()). I am always open to interesting conversations and collaborations.
+      I am Alireza, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
 
     imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
@@ -89,28 +86,28 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to my blog"
-    Content: I'm Alireza and in this blog, my learning notes and musings are being documented. Other than writing a ML blog, I’m leading a fabulous` team of software/ML engineers at Sievo on the side.
-    imageUrl: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/avatar/alirezasamar.jpg"
+    Title: "AI at Scale"
+    Content: I am Alireza, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
+    imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Alireza Samar
 
   socialIcons:
-    - name: github
-      url: "https://github.com/alirezasamar"
     - name: x
       url: "https://x.com/alirezasamar"
     - name: linkedin
       url: "https://www.linkedin.com/in/alirezasamar/"
+    - name: github
+      url: "https://github.com/alirezasamar"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     # - name: kaggle
     #   url: "https://www.kaggle.com/alirezasamar"
-    - name: goodreads
-      url: "https://goodreads.com/alirezasamar"
+    # - name: goodreads
+    #   url: "https://goodreads.com/alirezasamar"
 
   analytics:
     google:
