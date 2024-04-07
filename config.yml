@@ -95,19 +95,19 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/_arsmr"
+      url: "https://x.com/alirsamar"
     - name: linkedin
-      url: "https://www.linkedin.com/in/ali-samar/"
+      url: "https://www.linkedin.com/in/alirsamar"
     - name: github
-      url: "https://github.com/arsmr"
+      url: "https://github.com/alirsamar"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     # - name: kaggle
-    #   url: "https://www.kaggle.com/alirezasamar"
+    #   url: "https://www.kaggle.com/alirsamar"
     # - name: goodreads
-    #   url: "https://goodreads.com/alirezasamar"
+    #   url: "https://goodreads.com/alirsamar"
 
   analytics:
     google:
