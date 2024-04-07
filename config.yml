@@ -46,11 +46,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon.ico"
-    favicon16x16: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-16x16.png"
-    favicon32x32: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-32x32.png"
-    apple_touch_icon: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "https://raw.githubusercontent.com/alirezasamar/alirezasamar.github.io/master/assets/favicon/favicon-16x16.png"
+    favicon: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/favicon.ico"
+    favicon16x16: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/favicon-16x16.png"
+    favicon32x32: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/favicon-16x16.png"
 
   label:
     text: "Ali Samar"
@@ -95,11 +95,11 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/alirezasamar"
+      url: "https://x.com/_arsmr"
     - name: linkedin
-      url: "https://www.linkedin.com/in/alirezasamar/"
+      url: "https://www.linkedin.com/in/ali-samar/"
     - name: github
-      url: "https://github.com/alirezasamar"
+      url: "https://github.com/arsmr"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
     - name: googlescholar
