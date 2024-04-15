@@ -1,6 +1,6 @@
 baseURL: "https://alirezasamar.com"
 languageCode: "en-us"
-title: Ali Samar
+title: Alireza Samar
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Ali Samar
-  description: "Ali Samar"
+  title: Alireza Samar
+  description: "Alireza Samar"
   keywords: [Blog, Publications, Machine Learning]
-  author: Ali Samar
+  author: Alireza Samar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -53,7 +53,7 @@ params:
     safari_pinned_tab: "https://raw.githubusercontent.com/alirezasamar/arsmr.github.io/master/assets/favicon/favicon-16x16.png"
 
   label:
-    text: "Ali Samar"
+    text: "Alireza Samar"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -62,12 +62,12 @@ params:
     enabled: false # needs to be explicitly set
     title: " "
     subtitle: |
-      I am Ali, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
+      I am Alireza, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
 
     imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Ali Samar
+    imageTitle: Alireza Samar
     buttons:
       - name: Blog
         url: blog
@@ -87,27 +87,27 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "AI at Scale"
-    Content: I am Ali, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
+    Content: I am Alireza, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
     imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Ali Samar
+    imageTitle: Alireza Samar
 
   socialIcons:
     - name: x
-      url: "https://x.com/alirsamar"
+      url: "https://x.com/alirezasamar"
     - name: linkedin
-      url: "https://www.linkedin.com/in/alirsamar"
+      url: "https://www.linkedin.com/in/alirezasamar"
     - name: github
-      url: "https://github.com/alirsamar"
+      url: "https://github.com/alirezasamar"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com/users/4105051"
-    - name: googlescholar
-      url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
+    # - name: googlescholar
+    #   url: "https://scholar.google.com/citations?user=_t5fHe8AAAAJ&hl=en"
     # - name: kaggle
-    #   url: "https://www.kaggle.com/alirsamar"
+    #   url: "https://www.kaggle.com/alirezasamar"
     # - name: goodreads
-    #   url: "https://goodreads.com/alirsamar"
+    #   url: "https://goodreads.com/alirezasamar"
 
   analytics:
     google:
