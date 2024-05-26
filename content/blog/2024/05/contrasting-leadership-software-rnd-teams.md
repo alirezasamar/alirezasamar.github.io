@@ -6,6 +6,7 @@ description: "Thoughts on Leading Software and R&D Teams"
 tags: ["Software Development", "Technology Leadership"]
 ShowToc: false
 ShowBreadCrumbs: false
+image: "https://images.unsplash.com/photo-1499692190251-36a18d26e287?q=80&w=2986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---
 
 ![alt text](https://images.unsplash.com/photo-1499692190251-36a18d26e287?q=80&w=2986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
