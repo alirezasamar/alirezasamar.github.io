@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Engineering Excellence"
-date: 2024-06-26T11:34:50+02:00
+date: 2024-05-26T11:34:50+02:00
 draft: false
 description: "Insights and Strategies on Defining an Engineering Strategy"
 tags: ["Software Development", "Technology Leadership"]
