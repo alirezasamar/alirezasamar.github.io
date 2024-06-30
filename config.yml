@@ -86,8 +86,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "AI at Scale"
-    Content: I am Alireza, and I am documenting my explorations and insights here. In addition to writing this blog, I support an exceptional team of software and machine learning engineers at Sievo in building scalable and distributed solutions.
+    Title: ""
+    Content: I like building scalable and data-intensive systems.
     imageUrl: "https://avatars.githubusercontent.com/u/3524061?v=4"
     imageWidth: 120
     imageHeight: 120
@@ -96,8 +96,8 @@ params:
   socialIcons:
     - name: x
       url: "https://x.com/alirezasamar"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/alirezasamar"
+    # - name: linkedin
+    #   url: "https://www.linkedin.com/in/alirezasamar"
     - name: github
       url: "https://github.com/alirezasamar"
     # - name: stackoverflow
